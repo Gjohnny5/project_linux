@@ -1,2 +1,3 @@
 bunch of text in file b
 a changed made on dev to be pushed to the remote
+content for the issue branch
