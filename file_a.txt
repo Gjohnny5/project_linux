@@ -1,4 +1,6 @@
 bunch of text in file a
 adding some more text to a
 change made in github editor
-a change made locally
+<<<<<<<
+second change made in remote
+>>>>>>> d057a11c258bb0bd4265e0426bf982862b2d63e0
