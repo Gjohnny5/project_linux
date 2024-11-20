@@ -1,1 +1,2 @@
 bunch of text in file a
+adding some more text to a
